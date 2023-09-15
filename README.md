@@ -15,9 +15,11 @@ A web-based information system for patient treatment data in Ciumbuleuit Health 
 Design using [figma](https://www.figma.com/file/pZ4pWbDYmazWtSwU3Qqjps/Puskes-Dashboard?node-id=405%3A119&t=C0vt7vNLdmoxjoFK-1)
 
 ### Screenshots
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309272-2ea98d78-8d3b-4bb3-90cd-27e0f87f9075.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309307-e4968595-4cfc-4f4a-afa3-ab8ee5f2e137.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309348-2f1b2dec-e993-48c4-84dc-d431283e6106.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230218_012820.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230219_074213.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230219_094300.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230225_094449.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230312_101101.png)
 
 ## [Project 2 : South-Korea-Covid19-IS](https://github.com/jghjianghan/South-Korea-Covid19-IS/tree/main)
 A web-based information system for Covid-19 cases in South Korea. This project is made as an assignment for Project Management Course in Parahyangan Catholic University.
@@ -34,11 +36,9 @@ A web-based information system for Covid-19 cases in South Korea. This project i
 Design using [figma](https://www.figma.com/file/2IKbodWRolPT90QKODvsJo/Tubes-Manpro)
 
 ### Screenshots
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230218_012820.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230219_074213.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230219_094300.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230225_094449.png)
-![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/Screenshot_20230312_101101.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309272-2ea98d78-8d3b-4bb3-90cd-27e0f87f9075.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309307-e4968595-4cfc-4f4a-afa3-ab8ee5f2e137.png)
+![](https://github.com/mariqpratama/MAP_Portfolio/blob/main/Images/188309348-2f1b2dec-e993-48c4-84dc-d431283e6106.png)
 
 ## [Project 3 : AudioBook](https://github.com/mariqpratama/AudioBook/tree/main)
 A web-based information system for audiobook from kid storybooks. This project is made as an assignment for Data Science Project Course in Parahyangan Catholic University.
