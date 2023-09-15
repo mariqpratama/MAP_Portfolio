@@ -12,8 +12,7 @@ A web-based information system for patient treatment data in Ciumbuleuit Health 
 - EJS
 - PostgreSQL
 
-### UI Design
-Design using [figma](https://www.figma.com/file/pZ4pWbDYmazWtSwU3Qqjps/Puskes-Dashboard?node-id=405%3A119&t=C0vt7vNLdmoxjoFK-1)
+### [UI Design](https://www.figma.com/file/pZ4pWbDYmazWtSwU3Qqjps/Puskes-Dashboard?node-id=405%3A119&t=C0vt7vNLdmoxjoFK-1)
 
 ### Screenshots
 ![](/Images/Screenshot_20230218_012820.png)
@@ -33,8 +32,7 @@ A web-based information system for Covid-19 cases in South Korea. This project i
 - Apache
 - MariaDB
 
-### UI Design
-Design using [figma](https://www.figma.com/file/2IKbodWRolPT90QKODvsJo/Tubes-Manpro)
+### [UI Design](https://www.figma.com/file/2IKbodWRolPT90QKODvsJo/Tubes-Manpro)
 
 ### Screenshots
 ![](/Images/188309272-2ea98d78-8d3b-4bb3-90cd-27e0f87f9075.png)
@@ -49,8 +47,7 @@ A web-based information system for audiobook from kid storybooks. This project i
 - CSS (Bootstrap)
 - Python
 
-### UI Design
-Design using [figma](https://www.figma.com/file/jgxdN3szZIZxSNGBYdmuHa/Mockup-Audiobook?node-id=12%3A29&t=EWS1Pr2a4zUGmbBk-1)
+### [UI Design](https://www.figma.com/file/jgxdN3szZIZxSNGBYdmuHa/Mockup-Audiobook?node-id=12%3A29&t=EWS1Pr2a4zUGmbBk-1)
 
 
 **Thank you for visiting, and I hope you enjoy this glimpse into my world of informatics**.
