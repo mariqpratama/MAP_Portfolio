@@ -1,7 +1,7 @@
 # MAP_Portfolio
 Hallo, this is my first portfolio as Bachelor of Informatics, field of Data Science
 
-## Project 1 : Ciumbuleuit-Health-Center-IS
+## [Project 1 : Ciumbuleuit-Health-Center-IS](https://github.com/mariqpratama/Ciumbuleuit-Health-Center-IS)
 A web-based information system for patient treatment data in Ciumbuleuit Health Center. This project is made as an Informatics final thesis in Parahyangan Catholic University.
 
 ### Build with
@@ -17,7 +17,7 @@ Design using [figma](https://www.figma.com/file/pZ4pWbDYmazWtSwU3Qqjps/Puskes-Da
 ### Screenshots
 
 
-## Project 2 : South-Korea-Covid19-IS
+## [Project 2 : South-Korea-Covid19-IS](https://github.com/jghjianghan/South-Korea-Covid19-IS/tree/main)
 A web-based information system for Covid-19 cases in South Korea. This project is made as an assignment for Project Management Course in Parahyangan Catholic University.
 
 ### Built with
@@ -34,7 +34,7 @@ Design using [figma](https://www.figma.com/file/2IKbodWRolPT90QKODvsJo/Tubes-Man
 ### Screenshots
 
 
-## Project 3 : AudioBook
+## [Project 3 : AudioBook](https://github.com/mariqpratama/AudioBook/tree/main)
 A web-based information system for audiobook from kid storybooks. This project is made as an assignment for Data Science Project Course in Parahyangan Catholic University.
 
 ### Build with
