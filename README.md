@@ -52,5 +52,4 @@ A web-based information system for audiobook from kid storybooks. This project i
 Design using [figma](https://www.figma.com/file/jgxdN3szZIZxSNGBYdmuHa/Mockup-Audiobook?node-id=12%3A29&t=EWS1Pr2a4zUGmbBk-1)
 
 
-## 
-Thank you for visiting, and I hope you enjoy this glimpse into my world of informatics.
+## Thank you for visiting, and I hope you enjoy this glimpse into my world of informatics.
