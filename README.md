@@ -1,5 +1,5 @@
 # MAP_Portfolio
-Hallo, this is my first portfolio as Bachelor of Informatics, field of Data Science
+Welcome to my portfolio! I am thrilled to present a collection of projects and achievements that showcase my journey as a Bachelor of Informatics.
 
 ## [Project 1 : Ciumbuleuit-Health-Center-IS](https://github.com/mariqpratama/Ciumbuleuit-Health-Center-IS)
 A web-based information system for patient treatment data in Ciumbuleuit Health Center. This project is made as an Informatics final thesis in Parahyangan Catholic University.
