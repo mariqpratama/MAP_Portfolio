@@ -62,6 +62,10 @@ This website UI designed using [Figma](https://www.figma.com/file/2IKbodWRolPT90
 #### 2. UI Design
 This website UI designed using [Figma](https://www.figma.com/file/jgxdN3szZIZxSNGBYdmuHa/Mockup-Audiobook?node-id=12%3A29&t=EWS1Pr2a4zUGmbBk-1).
 
+#### 3. Screenshots
+![](/Images/Screenshot2023-11-23131506.png)
+![](/Images/Screenshot2023-11-23131353.png)
+
 
 # Personal's Projects
 
