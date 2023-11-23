@@ -4,11 +4,11 @@ Welcome to my portfolio! I am thrilled to present a collection of projects and a
 
 ## My Academic's Projects
 ### [Project 1 : Ciumbuleuit-Health-Center-IS](https://github.com/mariqpratama/Ciumbuleuit-Health-Center-IS)
-- A business intelligence system, based on web-based information system for patient treatment data in Ciumbuleuit Health Center
-- This project is made as an Informatics final thesis in Parahyangan Catholic University
-- Collaborating with the Ciumbuleuit Health Center as a partner Health Center
-- Conduct interviews with partner Health Center staff and collect health services data
-- Perform data cleaning and exploration using Python library to find interesting insights from data
+..- A business intelligence system, based on web-based information system for patient treatment data in Ciumbuleuit Health Center
+..- This project is made as an Informatics final thesis in Parahyangan Catholic University
+..- Collaborating with the Ciumbuleuit Health Center as a partner Health Center
+..- Conduct interviews with partner Health Center staff and collect health services data
+..- Perform data cleaning and exploration using Python library to find interesting insights from data
 #### 1. Build with
 - HTML
 - CSS (Bootstrap)
