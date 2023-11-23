@@ -19,10 +19,8 @@ Welcome to my portfolio! I am thrilled to present a collection of projects and a
 ### [2, UI Design](https://www.figma.com/file/pZ4pWbDYmazWtSwU3Qqjps/Puskes-Dashboard?node-id=405%3A119&t=C0vt7vNLdmoxjoFK-1)
 
 ### 3. Screenshots
-![](/Images/Screenshot_20230218_012820.png)
 ![](/Images/Screenshot_20230219_074213.png)
 ![](/Images/Screenshot_20230219_094300.png)
-![](/Images/Screenshot_20230225_094449.png)
 ![](/Images/Screenshot_20230312_101101.png)
 
 ## [Project 2 : South-Korea-Covid19-IS](https://github.com/jghjianghan/South-Korea-Covid19-IS/tree/main)
