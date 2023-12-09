@@ -78,7 +78,7 @@ This website UI designed using [Figma](https://www.figma.com/file/jgxdN3szZIZxSN
 
 # Personal's Projects
 
-### [Project 1 : CarRental](https://github.com/mariqpratama/CarRent)
+### [Project 1 : CarRent](https://github.com/mariqpratama/CarRent)
 
 #### 1. Built with
 
