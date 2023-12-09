@@ -78,7 +78,20 @@ This website UI designed using [Figma](https://www.figma.com/file/jgxdN3szZIZxSN
 
 # Personal's Projects
 
-### [Project 1 : ngopi-doeloe](https://github.com/aiqvista/ngopi-doeloe)
+### [Project 1 : CarRental](https://github.com/mariqpratama/CarRent)
+
+#### 1. Built with
+
+- PHP (Laravel)
+- CSS (Bootstrap)
+
+#### 2. Screenshots
+
+![](/Images/personal/car-rental/landing_page.png)
+![](/Images/personal/car-rental/carRental_page_1.png)
+![](/Images/personal/car-rental/dashboard_page_mycars.png)
+
+### [Project 2 : ngopi-doeloe](https://github.com/aiqvista/ngopi-doeloe)
 
 #### 1. Built with
 
@@ -92,7 +105,7 @@ This website UI designed using [Figma](https://www.figma.com/file/jgxdN3szZIZxSN
 ![](/Images/personal/ngopi-doeloe/2.0.png)
 ![](/Images/personal/ngopi-doeloe/2.1.png)
 
-### [Project 2 : ngopi-doeloe](https://github.com/aiqvista/waste-management)
+### [Project 3 : waste-management](https://github.com/aiqvista/waste-management)
 
 #### 1. Built with
 
