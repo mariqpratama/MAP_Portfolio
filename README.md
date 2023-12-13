@@ -56,7 +56,7 @@ This website UI designed using [Figma](https://www.figma.com/file/2IKbodWRolPT90
 
 ### [Project 3 : AudioBook](https://github.com/mariqpratama/AudioBook/tree/main)
 
-- A web-based information system for audiobook from kid storybooks
+- A web-based information system for audiobook from children's story book
 - This project is made as an assignment for Data Science Project Course in Parahyangan Catholic University
 - Clean up the content contained in pdf books, such as images and book pages using the Python library
 - Convert story text into audio file using the Google Cloud Platform API
